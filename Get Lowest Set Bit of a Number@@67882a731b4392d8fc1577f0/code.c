@@ -3,7 +3,7 @@
 int main() {
     int a;
     scanf("%d", &a);
-     int position = findLowestSetBitPosition(a);
+     int position = find Lowest Set Bit Position(a);
     
     if (position == -1)
         printf("There are no set bits in zero.\n");
