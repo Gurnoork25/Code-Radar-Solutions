@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() 
+int main() { 
 int countTrailingZeroes(int num) 
     if (num == 0) {
         return sizeof(int) * 8; 
