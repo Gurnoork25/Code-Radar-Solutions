@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main() {
     int a;
     scanf("%d",&a);
@@ -7,7 +8,7 @@ int main() {
         printf("Even");
     }
     else{
-        printf("odd");
+        printf("Odd");
     }
     return 0;
 }
