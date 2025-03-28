@@ -1,14 +1,14 @@
 #include <stdio.h>
 
+
 int main() {
     int n;
-    scanf("%d", &n);
+    scanf("%d",&n);
     if(n%2==0){
-        print("Even");
+        printf("Even");
     }
     else{
-        print("odd");
+        printf("Odd");
     }
     return 0;
-
 }
